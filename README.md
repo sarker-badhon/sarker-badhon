@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarker-badhon
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
