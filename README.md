@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Badhon Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="center" alt="coding" width="700" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif"/>
+<img align="center" alt="coding" width="full" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/be832922391491.58c25558f0fe7.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarker-badhon&label=Profile%20views&color=0e75b6&style=flat" alt="sarker-badhon" /> </p>
 
